@@ -1,0 +1,1 @@
+This template is very basic in its current form. Yet to add are media queries for mobile sizes and polyfills for a broader support of email clients.
